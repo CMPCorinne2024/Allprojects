@@ -103,29 +103,29 @@
             <mxPoint x="330" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7PU2nVzOQJ5yzUcttu9B-43" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Design&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7PU2nVzOQJ5yzUcttu9B-43" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Design&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;cutFlowersOrPlant&lt;/div&gt;&lt;div&gt;resonOfPurchase&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="80" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7PU2nVzOQJ5yzUcttu9B-44" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Size&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="380" width="60" height="90" as="geometry" />
+        <mxCell id="7PU2nVzOQJ5yzUcttu9B-44" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Size&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;finalSize&lt;/div&gt;&lt;div&gt;amountOfSun&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7PU2nVzOQJ5yzUcttu9B-45" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Size&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;sizeOfAreaToGrowIn&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7PU2nVzOQJ5yzUcttu9B-45" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Size&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;sizeOfAreaToGrowIn&lt;/div&gt;&lt;div&gt;floweringOrNonflowering&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="100" width="145" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7PU2nVzOQJ5yzUcttu9B-46" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Size&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="370" width="60" height="90" as="geometry" />
+        <mxCell id="7PU2nVzOQJ5yzUcttu9B-46" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Size&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;growingEnvironment&lt;/div&gt;&lt;div&gt;amountOfSunlight&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7PU2nVzOQJ5yzUcttu9B-47" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Size&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="480" width="60" height="90" as="geometry" />
+        <mxCell id="7PU2nVzOQJ5yzUcttu9B-47" value="Attributes:&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Size&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;howLongNeedToLast&lt;/div&gt;&lt;div&gt;colorScheme&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7PU2nVzOQJ5yzUcttu9B-48" value="Attributes:&lt;div&gt;Quantity&lt;/div&gt;&lt;div&gt;Availibility&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="290" width="60" height="90" as="geometry" />
+        <mxCell id="7PU2nVzOQJ5yzUcttu9B-48" value="Attributes:&lt;div&gt;Quantity&lt;/div&gt;&lt;div&gt;Availibility&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;dailyNumberOfStaff&lt;/div&gt;&lt;div&gt;Schedule&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="290" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7PU2nVzOQJ5yzUcttu9B-49" value="Attributes:&lt;div&gt;Quantity&lt;/div&gt;&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="110" width="60" height="90" as="geometry" />
+        <mxCell id="7PU2nVzOQJ5yzUcttu9B-49" value="Attributes:&lt;div&gt;Quantity&lt;/div&gt;&lt;div&gt;Color&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;typesOfFlowersInStock&lt;/div&gt;&lt;div&gt;flowersNeededForOrders&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="110" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7PU2nVzOQJ5yzUcttu9B-50" value="Attributes:&lt;div&gt;Quantity&lt;/div&gt;&lt;div&gt;Delivery date&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="270" width="80" height="90" as="geometry" />
+        <mxCell id="7PU2nVzOQJ5yzUcttu9B-50" value="Attributes:&lt;div&gt;Quantity&lt;/div&gt;&lt;div&gt;Delivery date&lt;/div&gt;&lt;div&gt;Methods:&lt;/div&gt;&lt;div&gt;averageResponseTime&lt;/div&gt;&lt;div&gt;numberOfOrders&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
